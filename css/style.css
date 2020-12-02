@@ -2954,6 +2954,10 @@ footer {
   width: 80%;
 }
 
+._cnt {
+  font-size: 24px;
+}
+
 .page {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 auto;
@@ -3056,10 +3060,6 @@ footer {
 
 .sql__content-block14 a:hover {
   text-decoration: underline;
-}
-
-.sql__content-block14 p {
-  font-size: 24px;
 }
 
 .sql__content-block14 p a {
