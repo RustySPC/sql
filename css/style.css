@@ -3062,6 +3062,10 @@ footer {
   font-size: 24px;
 }
 
+.sql__content-block14 p a {
+  font-size: 24px;
+}
+
 @media (min-width: 991.98px) {
   .quantity__button:hover::before,
   .quantity__button:hover::after {
